@@ -1,2 +1,2 @@
 import { io } from "socket.io-client";
-export const socket = io("http://localhost:3990");
+export const socket = io(" https://new-draw-backend.onrender.com");
